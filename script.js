@@ -23,7 +23,7 @@ ctx.fillRect(75, 75, 100, 100);
 
 //transparent purple rectangle
 ctx.fillStyle = 'rgba(255,0,255,0.75)';
-ctx.fillRect(25, 100, 175, 50); 
+ctx.fillRect(25, 100, 175, 50);
 //Draw a stroke: a retangle that is just an outline
 ctx.strokeStyle = 'rgb(255, 255, 255)';
 ctx.lineWidth = 5; //default line width is 1
